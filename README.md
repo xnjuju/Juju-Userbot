@@ -1,4 +1,4 @@
-# Man-Userbot Telegram
+# Juju-Userbot Telegram
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/mrismanaziz/Man-Userbot)
 
