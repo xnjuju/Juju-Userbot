@@ -2,7 +2,8 @@
   "name": "Juju-Userbot",
   "description": "[Juju-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
   "logo": "https://telegra.ph/file/f2e7c93d56a62100f0c7c.png",
-  "keywords": ["telegram", "userbot", "Juju-Userbot", "modular", "python"],
+  "keywords": [
+"telegram", "userbot", "Juju-Userbot", "modular", "python"],
   "repository": "https://github.com/xnjuju/Juju-Userbot",
   "stack": "container",
   "env": {
